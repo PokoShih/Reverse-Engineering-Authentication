@@ -10,15 +10,15 @@ id, email, password, createdAt, updatedAt
 A company approached a team of web devs for simple sign in application to store data with exisiting/creating accounts.
 
 ### Dependencies USED:
-  "dependencies": {
-    "bcryptjs": "2.4.3",
-    "express": "^4.17.0",
-    "express-session": "^1.16.1",
-    "mysql2": "^1.6.5",
-    "passport": "^0.4.0",
-    "passport-local": "^1.0.0",
-    "sequelize": "^5.8.6"
-  }
+  "dependencies": {<br>
+    "bcryptjs": "2.4.3",<br>
+    "express": "^4.17.0",<br>
+    "express-session": "^1.16.1",<br>
+    "mysql2": "^1.6.5",<br>
+    "passport": "^0.4.0",<br>
+    "passport-local": "^1.0.0",<br>
+    "sequelize": "^5.8.6"<br>
+  }<br>
 
 ### Reverse-Engineering document
 Please see following document for more explanations of the application:
