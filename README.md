@@ -2,14 +2,14 @@
 
 This application allows user to sign in an create an account.
 
-The sign in details are located in MySQL with the following columns:
+The sign in details are located in MySQL with the following columns:<br>
 id, email, password, createdAt, updatedAt
 
-USER STORY
+### USER STORYUSER STORY
 
 A company approached a team of web devs for simple sign in application to store data with exisiting/creating accounts.
 
-Dependencies used:
+### Dependencies USED:
   "dependencies": {
     "bcryptjs": "2.4.3",
     "express": "^4.17.0",
@@ -20,5 +20,5 @@ Dependencies used:
     "sequelize": "^5.8.6"
   }
 
-
+### Reverse-Engineering document
 Please see following document for more explanations of the application:
